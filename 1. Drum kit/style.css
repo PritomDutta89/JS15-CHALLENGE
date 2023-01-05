@@ -1,0 +1,46 @@
+html{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    font-size: 10px;
+    background: rgba(54, 49, 49, 0.753)
+}
+
+
+
+.keys{
+    height: 90vh;
+    display: flex;
+    color: #ffffffff;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+   display: flex;
+   justify-content: center;
+    align-items: center;
+   flex-direction: column;
+   transition: all .07s ease;
+   border: 2px solid black;
+   width: 5rem;
+   height: 5rem;  
+   font-size: 2rem;
+   background-color: #163eac;
+   text-shadow: 0 0 .5rem black;
+   
+}
+
+.play{
+   transform: scale(1.1);
+   border-color: rgb(122, 40, 40);
+   box-shadow: 0 0 1rem #fcd789ec;
+}
+
+.btn2{
+    margin-top: 0.7rem;
+    font-size: 0.8rem;
+    letter-spacing: .1rem;
+    color: #fcd789ec;
+}
