@@ -1,11 +1,10 @@
 const options = {
-  method: "GET",
-  headers: {
-    "X-RapidAPI-Key": "239d80bcbdmshb698dece18354d6p1b2254jsne161b8fa9db8",
-    "X-RapidAPI-Host": "weather-by-api-ninjas.p.rapidapi.com",
-  },
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': '239d80bcbdmshb698dece18354d6p1b2254jsne161b8fa9db8',
+		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+	}
 };
-
 
 const weather4 = (city) => {
     fetch(
@@ -195,6 +194,11 @@ weather3("Boston");
 
 //city3 - Lucknow
 weather2("Lucknow");
-
 //city4 - Boston
 weather1("Kolkata");
+
+//city2 - Boston
+weather("siliguri")
+
+
+
