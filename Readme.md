@@ -6,3 +6,4 @@
 4. Flex Panels Image Gallery - https://flex-panel.netlify.app/
 5. AJAX type ahead - https://type-aheadajax.netlify.app/\
 6. Weather App - https://heavyweather.netlify.app/
+7. Calculator App - https://calculateappmy.netlify.app/
