@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    color: brown;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+   display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
